@@ -1,0 +1,50 @@
+F = Foska
+FF = Femme Fatale
+
+((Tavernengeräusche))
+
+FF (weiter flirtend): Da übertreibst du doch. Jedenfalls erzählt man sich einige clevere Dinge von dir.
+
+F (abweisend): Ach ja?
+
+FF: Sicher! Wie war das denn mit dem Werwolf in Graufurt? Oder der unheimlichen Axtmörderin in Tiefentann? Du kommst viel rum im Land...
+
+((Stimme verklingt im Hintergrund, Überblendung in Foskas Gedanken))
+
+F: *Ja, ich komme viel rum, weil es mich nirgends hält. Und wenn mich mal jemand hält, pfft. Wenn ich bloss meinen Ohren abgewöhnen könnte, hinzuhören. Diese Scheiß-Welt hat viel zu viele Probleme.*
+
+FF derweil ((wahrscheinlich zu leise, um es zu verstehen)): und triffst überall interessante Leute. Wie machst du es nur immer, denen auf die Schliche zu kommen? Jdenfalls hast du den Menschen geholfen
+
+((Stimme wird wieder lauter))
+
+FF (begeistert): ... und sicher waren sie dir sehr dankbar?
+
+F: Hä?
+
+FF: Na zum Beispiel der Wirt vom Goldenen Frosch und seine Frau? Wegen dem verrückten Brandstifter?
+
+F (erinnert sich): Ach, die, stimmt. (unbeteiligt) Ja sicher.
+
+((Taverne verklingt im Hintergrund, Überblendung in Foskas Gedanken))
+
+F: *Klar erinnere ich mich. Ich mochte ihn und das war von Anfang an mein Fehler. Ich hätte einfach gehen sollen. Da war eh' keine dauerhafte Stelle für mich drin.* (Gedankenpause) *Wenn ich was daraus gelernt hab, dann dass ich meine Nase besser nicht in anderer Leute Angelegenheiten stecke. Vor allem, wenn ich sie mag.*
+
+((Tavernengeräusche wieder lauter))
+
+F: Was willst du eigentlich von mir?
+
+FF (schmeichelnd): Ich finde das so spannend, was du machst! Hast du gerade wieder einen Fall? Ich frage mich, warum du nicht längst berühmt bist. Das ist doch unfair...
+
+((Stimme verklingt im Hintergrund, Überblendung in Foskas Gedanken))
+
+F: *Unfair - das ganze Leben ist nicht fair. Aber ist ja auch egal. Ich frage mich, warum sie wirklich hier ist. Sie erinnert mich ein bisschen an Orlett, damals in Hochburg. Die hat mir auch immer ein Ohr abgekaut mit ihrer süßen Stimme. Nun, was tot ist kommt nicht wieder.*
+
+FF derweil ((wahrscheinlich zu leise, um es zu verstehen)): ... du hast was Besseres verdient. Mindestens ein Artikel im Boten hätte drin sein sollen, oder eine Belohnung? Du hast bestimmt schon einen Haufen Geld bei irgendeinem Handelshaus investiert, clever wie du bist
+
+((Stimme wird wieder lauter, Tavernengeräusche))
+
+FF: ... das ist doch richtig so. Oder?
+
+F (zustimmend): Hm.
+
+FF (kichert): Du hast noch gar nicht getrunken und mein Glas ist schon leer! Wirt, noch eins!

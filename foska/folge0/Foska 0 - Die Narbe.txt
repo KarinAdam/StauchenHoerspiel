@@ -1,0 +1,192 @@
+F = Foska
+A = Amaldine
+FF = Femme Fatale
+S1,S2,... = Schergen
+
+++ mehr flirten ++
+FF (flirtend): Wo hast Du eigentlich diese verwegene Narbe her?
+
+((Überblendung in die Rückblende))
+
+((Rennende Schritte. Atemgeräusche wie beim Dauerlauf. Großstadtatmosphäre))
+
+*Ich hatte mir geschworen niemandem zu verraten wo ich sie versteckt halte und dann war ihr Leben in Gefahr. Keine Zeit für Selbstvorwürfe. Ich muss mich beeilen.*
+
+((Außenatmosphäre: nächtliche Geräusche, knarrende Holzplanken, entferntes Hundegebell))
+
+*Ich näherte mich dem Versteck, ein altes Lagerhaus am Rande der Stadt, umgeben von Schatten und dem widerhallenden Lachen Betrunkener aus der nahen Taverne. Die Tür war nur angelehnt, kaum bewacht, aber ich konnte das dumpfe Murmeln drinnen hören.*
+
+((Beat))
+
+*Eine Wache an der Tür. Einer allein.*
+
+((Schritte werden leiser, als F sich leise bewegt))
+
+((Geräusch eines Messers, das aus einer Scheide gezogen wird))
+
+*Die Zeit für subtilen Einsatz war längst vorbei.*
+
+((Kampflärm: dumpfer Schlag, gefolgt von einem gedämpften Aufschrei))
+
+*Ich schlich mich an ihn heran, zog das Messer aus meinem Stiefel und schlug ihm den Knauf hart auf den Hinterkopf. Ein kurzes Zucken, und er sackte zusammen.*
+
+*Kein Laut. Der Rest muss immer noch drinnen sein.*
+
+((Geräusch eines Körpers, der zu Boden fällt))
+
+*Ich zog ihn zur Seite und öffnete die Tür vorsichtig, gerade weit genug, um hindurchzuschlüpfen. Die Schergen waren drin, mit Amaldine...*
+
+((Man hört die Stimmen, wie durch eine Tür))
+
+S1: Ihr drei durchsucht alles nach dem Auge, und ich kümmere mich um sie... Komm her, meine Kleine.
+A: Lasst mich in Ruhe!
+
+((Rumpeln, als würde ein Stuhl auf Seite gezerrt))
+((A gibt einen Schmerzlaut von sich, als sie gezerrt wird))
+
+A: Wie habt ihr mich gefunden?
+S1: Ein Täubchen hat uns was vorgesungen...
+
+((Schritte auf Holzboden, Scherben klirren, als ob jemand nach etwas sucht))
+
+S3: Hier ist nichts! Überprüft die anderen Räume!
+S4: Wir haben keine Zeit zu verlieren, das Auge muss hier irgendwo sein!
+S2: Reißt die Schränke auf, schaut hinter die Wandbehänge!
+
+((Rumpeln und Krachen von Möbeln, die verschoben werden))
+
+S3: Was ist mit diesem alten Schreibtisch? Könnte ein guter Versteckplatz sein.
+S4: Schaut in die Schubladen, lasst nichts unberührt!
+
+((Geräusch von Schubladen, die hastig aufgerissen und durchwühlt werden))
+
+S2: Ich habe hier nur Papiere und... was ist das? Ein altes Buch?
+
+S1: Das Buch bringt uns nichts, wir brauchen das Auge!
+
+((Weitere Geräusche von umgestürzten Möbeln und klirrenden Gläsern))
+
+A: Ihr werdet es nicht finden, ihr Narren!
+
+((S1 lacht höhnisch))
+
+S1: Oh, meine Liebe, das werden wir sehen. Jeder hat seinen Schwachpunkt. Und ich werde deinen finden.
+
+((Rasche Schritte nähern sich Amaldine))
+
+S1: Schau mich an, Amaldine. Wo ist das Auge von Randa?
+
+A: Ihr werdet es niemals finden!
+
+S1: (drohend) Oh, ich denke, du wirst reden. (zischend) Wir haben unsere Methoden.
+
+((Geräusch eines Dolches, der scharf gegen etwas kratzt))
+
+A: (verängstigt, aber trotzig) Ihr könnt mir nichts anhaben. Ich werde nichts verraten!
+
+S1: Ein Täubchen hat uns gesagt, dass du schwach bist, wenn es um Schmerz geht. Also, warum probieren wir das nicht aus?
+
+((Klang von Leder, das gespannt wird, wie ein Gürtel oder Riemen))
+
+A: (panisch) Nein, das werdet ihr nicht wagen!
+
+S1: (kalt) Oh, doch, das werden wir. Und du wirst uns alles erzählen.
+
+((Ein leiser, bösartiger Lacher))
+
+S3: Wir haben das Ding gefunden!
+
+S1: Sehr gut. Ich mach hier nur kurz fertig.
+
+((Rumpeln, als ob jemand etwas Schweres hebt))
+
+S1: Das bekommt man dafür, dass man sich mit der Fiduccia anlegt.
+
+A (Todesangst): Nein! Bitte nicht...
+
+((Geräusch eines Messerstichs))
+((A schreit vor Schmerzen))
+
+F: Amaldine!
+
+((Tür wird auf gerissen))
+((Schnelle Schritte, als Foska in das Versteck rennt))
+((Kampflärm))
+
+*Sie waren zu viele für mich, aber ich konnte nicht untätig bleiben. Der erste fiel auf meine Finte herein und ich konnte ihn zu aus dem Gleichgewicht bringen und sein Kopf machte Bekanntschaft mit dem Holztisch an dem ich Amaldines Theorien über das Auge von Randa gelauscht hatte*
+
+((Aufschlagen auf einem Tisch und ein Schmerzensschrei eines Schergen))
+
+*... es war auch der Tisch unter dem ich ein Wurfmesser versteckt hatte...*
+
+((Ziehen eines Messers aus einer Scheide, ein Wurf und weiterer Schmerzensschrei))
+
+*Aber sie waren zu viele für mich und hatten mich schließlich in ihrer Gewalt*
+((Gerangel mit F))
+
+F: Dann zeigt mal, was ihr könnt...
+
+((Dumpfe Schläge in den Magen und Stöhnen von F))
+
+S1: Halt! Bringt sie her!
+
+((Schergen schleppen F vor S1))
+
+S1: Na, wen haben wir denn da? Foska Claqueur, von der Stadtwache! Oder sollte ich sagen... unser kleines Täubchen?
+
+F: (keuchend) Ihr Schweine...
+
+S1: Oh, ja, dein hübscher Freund Darian hat uns erzählt, wo wir dich finden. Ein sentimentaler Künstler? Wirklich, Foska?
+
+F: (zornig) Darian? Nein... das kann nicht sein...
+
+S1: Oh, doch, er hat uns alles gesagt. Aber keine Sorge, er hat auch befohlen, dass wir dich am Leben lassen. Die Stadtwache soll dich wegen des Mordes an Amaldine holen.
+
+F: (wütend) Ihr... Bastarde...
+
+S1: (spöttisch) Gute Nacht, Täubchen.
+
+((Dumpfer Schlag, als Foska bewusstlos geschlagen wird))
+((Körper fällt zu Boden))
+
+S2: Was machen wir jetzt?
+
+S1: Lasst sie hier. Die Stadtwache wird bald da sein. Wir haben, was wir brauchen. Los, weg hier!
+
+((Schritte entfernen sich, Türen werden aufgestoßen))
+
+*Als ich wieder zu mir kam waren sie längst weg. Ich robbte mich an Amaldines Seite, aber sah auf einen Blick, dass sie nicht mehr zu retten war*
+
+F (plappernd): Es tut mir leid, er hat mich reingelegt, ich hätte ihm niemals...
+
+A: Shhh, shhh, shhh... Jeder benutzt hier jeden. Es ist nicht schmerzverzerrt deine Schuld.
+
+F: Aber du nicht... Ich liebe dich, Amaldine...
+
+A: Du bist so furchtlos... warst du schon immer... lass dich nicht von all dem hier verderben...
+
+F: Bitte stirb nicht! Ich liebe dich doch! Sag mir, dass du mich auch geliebt hast!
+
+A: Foska... diese Stadt... sie macht einen kaputt...
+
+*Ich spürte, wie meine Hoffnung schwand. Warum sagte sie es nicht?*
+
+A: Als ich dich hier gesehen hatte, dachte ich wirklich, du könntest mich retten.
+
+*Ihre Augen flackerten, ein letzter Funke in ihnen.*
+
+A: Liebe... was ist das noch? Die meisten Menschen begehren mich nur wegen meiner Schönheit...
+
+*Ich hatte sie wirklich geliebt, aber konnte ich ihr vorwerfen, sich meiner Gefühle bedient zu haben?*
+
+A: Lauf fort aus dieser Stadt, Foska. Bevor sie auch dich zerstört...
+
+*Die Stadtwache und die Schergen der Fiduccia waren sicherlich schon auf der Suche nach mir. Ich weinte um Amaldine und um mich. Das Salz aus meinen Tränen brannte wie Furwins Feuer in der Wunde auf meiner Wange... Ich floh aus der Königinnenstadt Swanhilds Ere und blickte nie mehr zurück.*
+
+
+((Wieder zurück in der Taverne))
+
+F: Wo ich die Narbe in meinem Gesicht her habe? Dummheit und Ungeschick ... Wie die meisten Narben waren es Dummheit und Ungeschick ...
+
+*und Liebe*
+

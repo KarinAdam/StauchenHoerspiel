@@ -1,0 +1,53 @@
+Foska 0 - Ende der Rahmenhandlung
+
+F = Foska
+A = Amaldine
+H = Hauptmann
+FF = Fatma (Femme Fatale)
+
+FF: Und, seid ihr schon weitergekommen mit dem Fall des ertrunkenen Vogts?
+F: Ja. Er ist abgeschlossen.
+
+((FF wird nervös))
+
+FF (nervös): Und wer war es?
+
+((Tür geht auf, schwere Stiefel, Metall klappert))
+
+H: Claqueur?
+F: Hauptmann. Das ist eure Mörderin.
+FF: Was, ich?
+
+((Mittelalterliches Äquivalent zu Handschellen klicken, ein Schluck wird getrunken, Humpen wird abgestellt))
+
+F: Ja.
+FF: Wie bist du dahinter gekommen?
+F: Deine Geschichte, Fatma. Die Erzählungen aus der Elhambra. Es war deine Magie, die den Vogt tötete. Ertrunken in seinem Bett, weil du ihm diese Geschichte erzählt hast.
+
+FF: (eisig) Du bist klüger, als du aussiehst, Claqueur. Aber warum sollte ich ihn umbringen?
+
+F: (sarkastisch) Aus Liebe? Nein, Fatma. Du hättest mit deinem Geliebten fliehen können, als die Handelskarawane durch den Weiler kam. Aber du bist geblieben. Wegen der Münzkiste des Vogts.
+
+FF: (resigniert) Und wie willst du das beweisen?
+
+F: Dein Akzent verriet, dass du aus der Elhambra stammst. Als ich dich neulich in der Taverne belauschte, wie du in einem unbeobachteten Moment über Mokka und das Gewürz „Zaffer“ sprachst, wusste ich es. Eine alte Freundin von mir, Amaldine, erzählte mir einst von der Elhambra und ihren geheimen Hikayatil, die ihre Magie durch Geschichten wirken.
+
+((Kurze Erinnerung an Amaldines Stimme))
+
+A: Foska, wusstest du, dass in der Elhambra mächtige Zauberinnen, die Hikayatil, ihre Kräfte durch Erzählungen entfesseln können? Ihre Geschichten sind nicht nur Worte, sondern Zauber, die Realität verändern.
+
+H (überrascht): Die Diener des Vogts erzählten von einer seltsamen Geschichte, die er vor seinem Tod hörte. 
+
+F: ...Und als ich nachforschte, fand ich heraus, dass eine Handelskarawane mit einem Mann aus deiner Heimat kürzlich durch den Weiler kam. Sein Name stand auf dem Liebesbrief, den ich in deinem Zimmer fand, versteckt hinter einem Spiegel. Außerdem hatte der Vogt seine Münzkiste immer bei sich, und sie ist nun verschwunden. Es war deine Gier, die dich zu Fall gebracht hat.
+
+FF: (wütend) Dafür wirst du büßen, Claqueur! Das ist nicht das letzte Mal, dass wir uns sehen!
+
+F: Stell dich hinten an. 
+
+H: (Spitzname) ... Ist schön dich mal wieder zu sehen ... Achte bitte auf dich
+
+F: Mach ich, mach ich ... Wir sind jetzt quitt?
+
+H: Sind wir ... Mach’s gut (Spitzname)
+
+((Stöckelschuhe, Tür geht zu, Tavernengeräusche, trinken))
