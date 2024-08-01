@@ -178,7 +178,7 @@ F: Amaldine!
 
 ((Kampflärm))
 
-F (innere Stimme): Sie waren zu viele für mich, aber ich konnte nicht untätig bleiben. Der erste fiel auf meine Finte herein und ich konnte ihn zu aus dem Gleichgewicht bringen und sein Kopf machte Bekanntschaft mit dem Holztisch an dem ich Amaldines Theorien über das Auge von Randa gelauscht hatte
+F (innere Stimme): Sie waren zu viele für mich, aber ich konnte nicht untätig bleiben. Der erste fiel auf meine Finte herein und ich konnte ihn aus dem Gleichgewicht bringen und sein Kopf machte Bekanntschaft mit dem Holztisch an dem ich Amaldines Theorien über das Auge von Randa gelauscht hatte
 
 ((Aufschlagen auf einem Tisch und ein Schmerzensschrei eines Schergen))
 
@@ -226,13 +226,13 @@ F (innere Stimme): Als ich wieder zu mir kam waren sie längst weg. Ich robbte m
 
 F (plappernd): Es tut mir leid, er hat mich reingelegt, ich hätte ihm niemals...
 
-A: Shhh, shhh, shhh... Jeder benutzt hier jeden. Es ist nicht schmerzverzerrt deine Schuld.
+A: Shhh, shhh, shhh... Jeder benutzt hier jeden. Es ist nicht *schmerzverzerrt* deine Schuld.
 
 F: Aber du nicht... Ich liebe dich, Amaldine...
 
 A: Du bist so furchtlos... warst du schon immer... lass dich nicht von all dem hier verderben...
 
-F: Bitte stirb nicht! Ich liebe dich doch! Sag mir, dass du mich auch geliebt hast!
+F: Bleib bei mir! Ich liebe dich doch! Sag mir, dass du mich auch geliebt hast!
 
 A: Foska... diese Stadt... sie macht einen kaputt...
 
@@ -270,7 +270,7 @@ FF: Sicher! Wie war das denn mit dem Werwolf in Graufurt? Oder der unheimlichen 
 
 F (innere Stimme): Ja, ich komme viel rum, weil es mich nirgends hält. Und wenn mich mal jemand hält, pfft. Wenn ich bloss meinen Ohren abgewöhnen könnte, hinzuhören. Diese Scheiß-Welt hat viel zu viele Probleme.
 
-FF (derweil, wahrscheinlich zu leise, um es zu verstehen): und triffst überall interessante Leute. Wie machst du es nur immer, denen auf die Schliche zu kommen? Jdenfalls hast du den Menschen geholfen
+FF (derweil, wahrscheinlich zu leise, um es zu verstehen): und triffst überall interessante Leute. Wie machst du es nur immer, denen auf die Schliche zu kommen? Jedenfalls hast du den Menschen geholfen
 
 ((Stimme wird wieder lauter))
 
@@ -314,7 +314,7 @@ Hx: Foska, auf Wiedersehen. Ich werde mich dem Hexenzirkel anschließen. Ich ert
 
 Ad: Foska, ich habe dich nie geliebt. Was auch immer du in mir gesehen hast, ich bin es nicht! Ich habe dich für einen Auftrag angeheuert. Hier ist dein Geld und nun einen guten Abend!
 
-H: Foska, ich kann nicht mehr. Ich liebe dich ja. Deine Entschlossenheit und Klugheit. Aber ich kannnicht mehr zu sehen, wie du immer weiter kaputt gehst. Es tut mir leid.
+H: Clac, ich kann nicht mehr. Ich liebe dich ja. Deine Entschlossenheit und Klugheit. Aber ich kann nicht mehr zu sehen, wie du immer weiter kaputt gehst. Es tut mir leid.
 
 D: Foska, was für ein schöner Spaziergang. Diese Sterne. Dafür nehme ich jede Kosten in kauf. Alle Entscheidungen haben ihren Preis. Man muss wählen. Verpflichtungen, Kupfermünzen oder die Liebe.
 
@@ -370,11 +370,11 @@ FF: (wütend) Dafür wirst du büßen, Claqueur! Das ist nicht das letzte Mal, d
 
 F: Stell dich hinten an. 
 
-H: (Spitzname) ... Ist schön dich mal wieder zu sehen ... Achte bitte auf dich
+H: Clac ... Ist schön dich mal wieder zu sehen ... Achte bitte auf dich
 
 F: Mach ich, mach ich ... Wir sind jetzt quitt?
 
-H: Sind wir ... Mach’s gut (Spitzname)
+H: Sind wir ... Mach’s gut, Clan
 
 ((Stöckelschuhe, Tür geht zu, Tavernengeräusche, trinken))
 
