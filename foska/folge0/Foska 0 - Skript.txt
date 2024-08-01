@@ -1,11 +1,12 @@
-Foska 0 - Cast
+Foska 0 
+
+{{Cast}}
 
 Foska (F) - Paula
 Femme Fatale (Fatma) (FF) - Uli 
 Amaldine (A) - Lilli
 Hauptmann (H) - Oki
 Scherge 1 (S1) - Fux
-
 
 Nebenrollen:
 Wirt - (W) Tina
@@ -19,7 +20,7 @@ Schafhüter:in (Sh) - Peter
 
 Intro/Outro (Io) - Karo
 
----
+{{Skript}}
 
 Io: Die Abenteuer von Foska Claqueur.
 
